@@ -1,6 +1,7 @@
 
-<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500&layout=compact&theme=radical&hide_border=false">
+  
 </div>
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="40"> Hi, I'm Yousef Elmarghany  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="40">
@@ -11,7 +12,8 @@
 - <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="20"> **Fun Fact**: I optimize everything — from code to Shai routines! ☕→⚡
 
 ---
-
+<div align="center">
+  
 ## 💻 Languages and Tools
 
 <span>
@@ -31,13 +33,16 @@
 [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60">](https://discord.com/users/ID)
 [<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" title="Github">](https://github.com/Scadower)
 
+</div>
 ---
 
 ### 🌟 Goals for 2025  
-- 🎓 Excel academically and make my parents proud
-- 🚀 Master React and Node.js  
-- 🌍 Contribute to open-source projects
+- 🎓 Excel academically and make my parents proud 🎓 
+- 🚀 Master React and Node.js  🚀
+- 🌍 Contribute to open-source projects 🌍
 ---
+
+
 
 <details> 
 <summary>🎯 Featured Projects </summary> 
