@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Yousef Elmarghany  
 
--🚀 **Frontend Developer**
--🎨 **UI/UX Enthusiast**
--🌱 **Currently Learning React & Node.js**
--⭐ **Fun Fact**: I optimize everything — from code to Shai routines! ☕→⚡
+🚀 **Frontend Developer**
+🎨 **UI/UX Enthusiast**
+🌱 **Currently Learning React & Node.js**
+⭐ **Fun Fact**: I optimize everything — from code to Shai routines! ☕→⚡
 
 ---
 
