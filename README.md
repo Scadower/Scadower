@@ -70,5 +70,5 @@
 
 1. 🔄 Updated portfolio design
 2. 📚 Studying React hooks
-3. 🛠️ Contributed to https://github.com/GDSC-IIITN/JourNULL-CodeXCaliber-25 ➡️ Forks 👀
+3. 🛠️ Contributed to https://github.com/GDSC-IIITN/JourNULL-CodeXCaliber-25 ➡️ Pull Requests 👀
 </details
