@@ -68,7 +68,6 @@
 <details> 
 <summary>🗓️ Recent Activity</summary>
 
-1. 🔄 Updated portfolio design
-2. 📚 Studying React hooks
-3. 🛠️ Contributed to https://github.com/GDSC-IIITN/JourNULL-CodeXCaliber-25 ➡️ Pull Requests 👀
+1. 🛠️ Contributed to https://github.com/mollyberg/Spoon-Knife/pull/4 & https://github.com/mollyberg/Spoon-Knife/pull/5
+2. 🛠️ Contributed to https://github.com/GDSC-IIITN/JourNULL-CodeXCaliber-25/pull/16 ➡️ Pull Requests 👀
 </details
