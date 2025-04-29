@@ -69,5 +69,5 @@
 <summary>🗓️ Recent Activity</summary>
 
 1. 🛠️ Contributed to https://github.com/mollyberg/Spoon-Knife/pull/4 & https://github.com/mollyberg/Spoon-Knife/pull/5 ➡️ Pull Requests 👀
-2. 🛠️ Contributed to https://github.com/GDSC-IIITN/JourNULL-CodeXCaliber-25/pull/16 ➡️ Pull Requests 👀
+2. 🛠️ https://github.com/GDSC-IIITN/JourNULL-CodeXCaliber-25 👀
 </details
